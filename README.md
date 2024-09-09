@@ -4,8 +4,6 @@
 
 This project is designed to **report and analyze tweet trends** in real-time and over time using both **batch** and **streaming** data processing. It leverages the power of big data tools to provide insightful analysis on trending topics, user interactions, among the shared tweets.
 
-![System Architecture](https://github.com/user-attachments/assets/f2d5dac4-5e69-4327-a5c0-9c7ec1277f8f)
-
 ## Data Processing Approaches
 
 This project handles tweet data using two types of processing:
